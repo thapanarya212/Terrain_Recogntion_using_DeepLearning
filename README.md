@@ -1,10 +1,11 @@
 # 🌍 Terrain Recognition using Deep Learning
 
-#[![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)](https://www.python.org/)  
-#[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0-orange?logo=tensorflow)](https://www.tensorflow.org/)  
+[![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)](https://www.python.org/)  
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0-orange?logo=tensorflow)](https://www.tensorflow.org/)  
 [![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red?logo=keras)](https://keras.io/)  
 [![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)](https://opencv.org/)  
 [![Google Colab](https://img.shields.io/badge/Run%20on-Colab-yellow?logo=googlecolab)](https://colab.research.google.com/drive/17woey4sXY1d8CB8ah3AHeK2tUFSkfU0c?usp=sharing)  
+[![GitHub](https://img.shields.io/badge/Project-Link-blue?logo=github)](https://colab.research.google.com/drive/17woey4sXY1d8CB8ah3AHeK2tUFSkfU0c?usp=sharing)  
 [![GitHub](https://img.shields.io/badge/GitHub-thapanarya212-black?logo=github)](https://github.com/thapanarya212)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aasrishakthi-blue?logo=linkedin)](https://www.linkedin.com/in/aasrishakthi)  
 
